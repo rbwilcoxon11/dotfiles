@@ -1,0 +1,7 @@
+PATH=$PATH:/usr/sbin
+PATH=/sbin:/usr/local/bin:$PATH
+PATH=$HOME/local/bin:$PATH
+export PATH
+
+MANPATH=$HOME/local/man:$MANPATH
+
